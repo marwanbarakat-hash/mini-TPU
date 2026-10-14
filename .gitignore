@@ -1,3 +1,25 @@
+# Simulation Outputs & Waveforms
 *.out
 *.vcd
 *.vvp
+*.wlf
+*.log
+
+
+transcript
+work/
+_info
+*.mpf
+*.mti
+*.ini
+*.cr.mti
+*.bak
+
+
+*.lock
+vsim.wlf
+wlft*
+
+
+.DS_Store
+*.swp
